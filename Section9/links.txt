@@ -1,0 +1,7 @@
+https://teclado.com/30-days-of-python/python-30-day-20-map-filter/
+
+https://docs.python.org/3/library/stdtypes.html#truth-value-testing
+
+https://stackoverflow.com/questions/1247486/list-comprehension-vs-map/6407222#6407222
+
+https://docs.python.org/3/library/stdtypes.html#truth-value-testing

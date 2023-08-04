@@ -1,0 +1,5 @@
+https://web.archive.org/web/20160313053014/http://jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/
+
+https://stackoverflow.com/questions/12265451/ask-forgiveness-not-permission-explain
+
+https://stackoverflow.com/questions/16138232/is-it-a-good-practice-to-use-try-except-else-in-python/16138864#16138864

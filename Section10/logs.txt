@@ -1,0 +1,4 @@
+015-07-2023:12:10:21 DEBUG    [loggingexample.py:11] This is a debug log
+15-07-2023:12:10:21 INFO     [loggingexample.py:12] This is an info log
+15-07-2023:12:10:21 CRITICAL [loggingexample.py:13] This is critical
+15-07-2023:12:10:21 ERROR    [loggingexample.py:14] An error occurred

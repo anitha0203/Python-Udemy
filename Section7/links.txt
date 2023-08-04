@@ -1,0 +1,5 @@
+https://rednafi.com/
+
+http://eigenhombre.com/introduction-to-context-managers-in-python.html
+
+https://www.sqlitetutorial.net/sqlite-autoincrement/

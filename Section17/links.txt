@@ -1,0 +1,3 @@
+https://blog.teclado.com/decorators-in-python/
+
+https://teclado.com/30-days-of-python/python-30-day-29-decorators/

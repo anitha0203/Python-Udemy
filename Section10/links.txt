@@ -1,0 +1,5 @@
+https://blog.teclado.com/python-itertools-part-1-product/
+
+https://blog.teclado.com/python-itertools-part-2-combinations-permutations/
+
+https://www.youtube.com/watch?v=F6u5rhUQ6dU

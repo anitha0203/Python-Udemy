@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=W7QByFjVom8
+
+https://www.pythonforbeginners.com/cheatsheet/python-file-handling
+
+https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time/14132912#14132912
+
+https://docs.python.org/3/library/json.html

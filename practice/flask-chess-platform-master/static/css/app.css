@@ -1,0 +1,50 @@
+
+
+@font-face {
+    font-family: 'chesspirate';
+    src: url('../webfonts/ChessSansPiratf.woff');
+}
+
+
+/* Overwrite .card class properties */
+
+.card {
+    border-radius: 0 !important;
+}
+
+.card-body {
+    padding: 0 !important;
+}
+
+/* Main app styles*/
+
+#reset, #undo, #redo {
+    cursor: pointer;
+    font-size: 120%;
+}
+
+/* applying chess font to moves in table */
+
+tbody#pgn-moves {
+    font-family: 'chesspirate', sans-serif;
+}
+
+
+/* Overflow moves tables */
+.card-body#game-moves {
+    overflow-y: scroll;
+    max-height: 460px;
+}
+
+tbody tr td:hover {
+    background-color: #20a4f3;
+    cursor: pointer;
+}
+
+img[class^="piece"] {
+    cursor: pointer;
+}
+
+.game-over {
+    color: #ea1744;
+}

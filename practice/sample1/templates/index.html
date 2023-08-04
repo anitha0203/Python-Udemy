@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chess Game</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Chess Game</h1>
+    <table>
+        {% for row in board %}
+        <tr>
+            {% for cell in row %}
+            <td><a href="#" onclick="handleMove({{ loop.index0 }}, {{ loop.index }})">{{ cell }}</a></td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

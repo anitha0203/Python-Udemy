@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chess Game</title>
+</head>
+<body>
+    <h1>Chess Game</h1>
+    <div id="board"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/2.0.0/chess.min.js"></script>
+    <script>
+        const board = new Chess.Board();
+        document.getElementById("board").appendChild(board.render());
+    </script>
+</body>
+</html>
